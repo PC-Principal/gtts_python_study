@@ -1,5 +1,8 @@
 # Audio Classification API
 
+## Важное
+- Google Speech-to-Text API является платным функционалом.
+
 ## Описание
 
 Этот проект представляет собой API для загрузки и классификации аудиофайлов с использованием Google Cloud Speech-to-Text. Аудиофайлы передаются в формате OGG (кодек Opus), и API возвращает расшифровку речи или классификацию как "non-speech". Кроме того, в проекте реализована возможность преобразования текста в речь с использованием Google Text-to-Speech (gTTS).
@@ -19,7 +22,7 @@
 
 ### 1. Склонировать репозиторий
 ```bash
-git clone https://github.com/ваш-репозиторий.git
+git clone https://github.com/PC-Principal/gtts_python_study
 cd ваш-репозиторий
 ```
 
