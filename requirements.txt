@@ -1,0 +1,7 @@
+fastapi
+google-cloud-speech
+python-dotenv
+uvicorn
+aiofiles
+gtts
+playsound
